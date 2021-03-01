@@ -19,8 +19,9 @@ Tenemos "train.csv" que debemos limpiar, investigar y desde él entrenar un mode
 * Probar los siguientes modelos:  
     
     - Linear Regression.
-                                  
-    - Random Forest (GridSearchCV)
+    
+    - Random Forest Regressor
+                                 
                                  
 
 
