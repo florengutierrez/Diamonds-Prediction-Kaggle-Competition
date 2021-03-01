@@ -16,7 +16,9 @@ Tenemos "train.csv" que debemos limpiar, investigar y desde él entrenar un mode
 
 * Limpieza del dataset. Priorizando en darle valor lógico a las columnas categóricas.
 
-* Probar los siguientes modelos:  - Linear Regression.
+* Probar los siguientes modelos:  
+    
+    - Linear Regression.
                                   
     - Random Forest (GridSearchCV)
                                  
