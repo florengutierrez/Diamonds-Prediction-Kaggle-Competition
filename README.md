@@ -23,6 +23,11 @@ Tenemos "train.csv" que debemos limpiar, investigar y desde él entrenar un mode
     - Random Forest Regressor
                                  
                                  
+       --------------------------------------------------------------
+       
+       
+![captura](/Image/captura.png)
+                                 
 
 
                       
